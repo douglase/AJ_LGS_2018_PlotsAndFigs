@@ -1,5 +1,5 @@
 
-numpy==1.13.1
+numpy
 matplotlib==2.2.3
 poppy==0.6.1
 astropy==3.0.4
